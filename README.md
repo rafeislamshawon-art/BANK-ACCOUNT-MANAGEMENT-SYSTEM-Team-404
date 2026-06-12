@@ -8,7 +8,7 @@ Submitted To: Iffat Mehrin Disha
 
 Team Members
 26005045 - Nesar Ahmed Wasi,
-26005073 - MD.Rafe Islam,
+26005073 - Md.Rafe Islam,
 26005049 - Umma Sumaiya Eva,
 26005063 - Md Siam Hossain Shorot,
 26005062 - Al Amin,
