@@ -7,11 +7,11 @@ Semester: 1st Semester
 Submitted To: Iffat Mehrin Disha
 
 Team Members
-26005045 - Nesar Ahmed Wasi
-26005073 - Rafi Islam
-26005049 - Umma Sumaiya Eva
-26005063 - Md Siam Hossain Shorot
-26005062 - Al Amin
+26005045 - Nesar Ahmed Wasi,
+26005073 - Rafi Islam,
+26005049 - Umma Sumaiya Eva,
+26005063 - Md Siam Hossain Shorot,
+26005062 - Al Amin,
 
 Abstract
 This project implements a console-based banking management system developed in C++. The
